@@ -7,13 +7,15 @@ data/
 gprovince_drive/
 gprovince_walk/
 SHAPE/
-.pynb_checkpoints/
+.ipynb_checkpoints/
 __pycache__/
 cache/
+POI/
 osmnx_prototype_combine_graph.ipynb
 osmnx_prototype_h3_bbox.ipynb
 osmnx_prototype_XML.ipynb
 pyrosm_test.py
 pyrosm_tutorial.py
 pyrosm_tutorial_2.py
+osmnx_prototype_linux_POI_writeGpickle.ipynb
 

@@ -2,6 +2,7 @@
 
 Update:
 2021-07-27  Created by Tawan,T.
+2021-08-19  Add osmnx's POI (Gas Station by Province)
 
 Why:
 - Sometimes we need to calculate distance between two locations.
